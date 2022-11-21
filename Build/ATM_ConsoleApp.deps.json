@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ATM_ConsoleApp/1.0.0": {
+        "runtime": {
+          "ATM_ConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ATM_ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
